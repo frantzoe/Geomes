@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Geomes</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_requested">Demandés</string>
+    <string name="title_recieved">Reçus</string>
+    <string name="title_upcoming">Confirmés</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_request">RequestActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="req_channel_name">Demande</string>
+    <string name="req_channel_description">Les notifications d\'évenements.</string>
+    <string name="res_channel_name">Réponse</string>
+    <string name="event_channel_description">Les notifications d\'évenements.</string>
+    <string name="title_activity_event">EventActivity</string>
+    <string name="event_channel_name">Evènements</string>
+</resources>
